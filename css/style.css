@@ -3359,7 +3359,7 @@ input[type="button"].btn-block {
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  padding-left: 0;
+  padding-left: 0;F
   margin-bottom: 0;
   list-style: none; }
 
@@ -3462,7 +3462,7 @@ input[type="button"].btn-block {
   line-height: inherit;
   white-space: nowrap; }
   .navbar-brand:hover, .navbar-brand:focus {
-    text-decoration: none; }
+     }
 
 .navbar-nav {
   display: -webkit-box;
